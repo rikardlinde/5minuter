@@ -15,8 +15,6 @@ och två frågor innan jag går och lägger mig
 * Tre fantastiska saker som hände idag
 * Hur kunde jag ha gjort idag bättre
 
-![5 minuters- app](http://rikardlinde.se/wp-content/uploads/2021/03/5-minuter-mockup.png)
-
 ## Status
 
 Huvudsidan färdig. Återstår en lista för tidigare dagar och en mall för att se de enskilda dagarna.
@@ -28,3 +26,7 @@ Koden i det här projektet är tillgängligt för återanvändning enligt [Attri
 ## Kontakt
 
 [@rikardlinde](https://github.com/rikardlinde)
+
+## Mockup
+
+![5 minuters- app](http://rikardlinde.se/wp-content/uploads/2021/03/5-minuter-mockup.png)
