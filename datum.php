@@ -3,7 +3,7 @@
 setlocale( LC_TIME, 'sv_SE.ISO_8859-1');  
 $manad = date('F');
 $veckodag = date('l');
-$dagnummer = date('d');
+$dagnummer = date('j');
 
 if ($manad == "January") {$manad = "januari";}
 if ($manad == "February") {$manad = "februari";}
