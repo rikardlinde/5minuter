@@ -90,7 +90,7 @@ if (isset($_POST['tacksam1'])):
         <ul>
           <li><a href="/fem/" class="dag" id="veckodag"><?php echo $datum; ?></a></li>
           <li><a href="/fem/" class="titel">5 minuter</a></li>
-          <li><a href="/tidigare/">Tidigare</a></li>
+          <li><a href="/fem/tidigare.php">Tidigare</a></li>
         </ul>
       </nav>
     
@@ -225,7 +225,7 @@ else:
         <ul>
           <li><a href="/fem/" class="dag" id="veckodag"><?php echo $datum; ?></a></li>
           <li><a href="/fem/" class="titel">5 minuter</a></li>
-          <li><a href="/tidigare/">Tidigare</a></li>
+          <li><a href="/fem/tidigare.php">Tidigare</a></li>
         </ul>
       </nav>
     
